@@ -46,6 +46,8 @@ Here you have some app screenshots
 
 ![Edit Screen](screenshot/screenshot_edit.png?raw=true)
 
-  #### Dark Mode 
+  ##### Dark Mode 
   
-![Main Screen of the app](screenshot/dark_detail.png?raw=true)
+![Detail Screen Dark](screenshot/dark_detail.png?raw=true)
+
+![Edit Screen Dark](screenshot/dark_edit.png?raw=true)
