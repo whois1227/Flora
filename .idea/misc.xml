@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jose Manuel/Documents/AndroidStudio/FloraFragments/app/src/main/res/layout/activity_main.xml" value="0.2884963768115942" />
+        <entry key="..\:/Users/Jose Manuel/Documents/AndroidStudio/FloraFragments/app/src/main/res/layout/flora_item.xml" value="0.2884963768115942" />
+        <entry key="..\:/Users/Jose Manuel/Documents/AndroidStudio/FloraFragments/app/src/main/res/layout/fragment_add_flora.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Jose Manuel/Documents/AndroidStudio/FloraFragments/app/src/main/res/layout/fragment_add_image.xml" value="0.2884963768115942" />
+        <entry key="..\:/Users/Jose Manuel/Documents/AndroidStudio/FloraFragments/app/src/main/res/layout/fragment_first.xml" value="0.2884963768115942" />
+        <entry key="..\:/Users/Jose Manuel/Documents/AndroidStudio/FloraFragments/app/src/main/res/layout/fragment_second.xml" value="0.25" />
+        <entry key="..\:/Users/Jose Manuel/Documents/AndroidStudio/FloraFragments/app/src/main/res/layout/image_slider_item.xml" value="0.2884963768115942" />
+        <entry key="..\:/Users/Jose Manuel/Documents/AndroidStudio/FloraFragments/app/src/main/res/menu/action_mode_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Jose Manuel/Documents/AndroidStudio/FloraFragments/app/src/main/res/menu/edit_delete_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Jose Manuel/Documents/AndroidStudio/FloraFragments/app/src/main/res/menu/edit_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheSintBex/Desktop/Escritorio/Flora/app/src/main/res/layout/flora_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheSintBex/Desktop/Escritorio/Flora/app/src/main/res/layout/fragment_add_flora.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheSintBex/Desktop/Escritorio/Flora/app/src/main/res/layout/fragment_add_image.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheSintBex/Desktop/Escritorio/Flora/app/src/main/res/layout/fragment_first.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheSintBex/Desktop/Escritorio/Flora/app/src/main/res/layout/fragment_second.xml" value="0.25" />
+        <entry key="..\:/Users/TheSintBex/Desktop/Escritorio/Flora/app/src/main/res/menu/add_menu.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/TheSintBex/Desktop/Escritorio/Flora/app/src/main/res/menu/app_mode.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheSintBex/Desktop/Escritorio/Flora/app/src/main/res/menu/edit_delete_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheSintBex/Desktop/Escritorio/Flora/app/src/main/res/menu/edit_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/TheSintBex/Desktop/Escritorio/Flora/app/src/main/res/menu/menu_main.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

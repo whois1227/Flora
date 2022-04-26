@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="dev.jmsaez.florafragments.view.activity.MainActivity">
+    <item
+        android:id="@+id/cancel_opt"
+        android:icon="@drawable/ic_baseline_cancel_24"
+        android:title="Cancel"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/delete_option"
+        android:icon="@drawable/ic_baseline_delete_forever_24"
+        android:title="Delete"
+        app:showAsAction="always" />
+    <item android:title="Edit" />
+    <item android:title="Item" />
+</menu>

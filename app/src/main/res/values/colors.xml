@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primaryColor">#77ad78</color>
+    <color name="primaryLightColor">#8fd694</color>
+    <color name="primaryDarkColor">#7dba84</color>
+    <color name="secondaryColor">#7dba84</color>
+    <color name="secondaryLightColor">#d2ce56</color>
+    <color name="secondaryDarkColor">#6f8f72</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#000000</color>
+    <color name="grey">#f5f5f5</color>
+    <color name="accent">#504b43</color>
+
+    <color name="primaryColor_dark">#39533A</color>
+    <color name="primaryLightColor_dark">#4D7350</color>
+    <color name="dark_green">#292E27</color>
+
+    /* CSV */
+    8fd694,7dba84,77ad78,6f8f72,504b43
+
+    /* With # */
+    #8fd694, #7dba84, #77ad78, #6f8f72, #504b43
+
+    /* Array */
+    ["8fd694","7dba84","77ad78","6f8f72","504b43"]
+
+    /* Object */
+    {"Granny Smith Apple":"8fd694","Dark Sea Green":"7dba84","Forest Green Crayola":"77ad78","Russian Green":"6f8f72","Davys Grey":"504b43"}
+
+    /* Extended Array */
+    [{"name":"Granny Smith Apple","hex":"8fd694","rgb":[143,214,148],"cmyk":[33,0,31,16],"hsb":[124,33,84],"hsl":[124,46,70],"lab":[80,-35,26]},{"name":"Dark Sea Green","hex":"7dba84","rgb":[125,186,132],"cmyk":[33,0,29,27],"hsb":[127,33,73],"hsl":[127,31,61],"lab":[70,-31,21]},{"name":"Forest Green Crayola","hex":"77ad78","rgb":[119,173,120],"cmyk":[31,0,31,32],"hsb":[121,31,68],"hsl":[121,25,57],"lab":[66,-29,22]},{"name":"Russian Green","hex":"6f8f72","rgb":[111,143,114],"cmyk":[22,0,20,44],"hsb":[126,22,56],"hsl":[126,13,50],"lab":[56,-17,12]},{"name":"Davys Grey","hex":"504b43","rgb":[80,75,67],"cmyk":[0,6,16,69],"hsb":[37,16,31],"hsl":[37,9,29],"lab":[32,0,6]}]
+
+    /* XML */
+<!--    <palette>-->
+<!--        <color name="Granny Smith Apple" hex="8fd694" r="143" g="214" b="148" />-->
+<!--        <color name="Dark Sea Green" hex="7dba84" r="125" g="186" b="132" />-->
+<!--        <color name="Forest Green Crayola" hex="77ad78" r="119" g="173" b="120" />-->
+<!--        <color name="Russian Green" hex="6f8f72" r="111" g="143" b="114" />-->
+<!--        <color name="Davys Grey" hex="504b43" r="80" g="75" b="67" />-->
+<!--    </palette>-->
+</resources>
